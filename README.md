@@ -1,6 +1,6 @@
 # Functional Priors and Cold Posteriors
 
-This repository hosts the code to reproduce all results presented in the report *On Functional Priors and Cold Posteriors in Bayesian Neural Networks*.
+This repository hosts the code to reproduce all results presented in the report [On Functional Priors and Cold Posteriors in Bayesian Neural Networks](report.pdf).
 
 # Key contributions
 
