@@ -18,7 +18,7 @@ We demonstrate that correctly sampling from a prior distribution over model outp
 
 # File structure
 
-The core[core] directory contains all the required code for sampling models. The [run.py](core/run.py) script provides a simple interface for sampling a single model.
+The [core](core) directory contains all the required code for sampling models. The [run.py](core/run.py) script provides a simple interface for sampling a single model.
 
 All figures in the report were generated using the provided [Jupyter notebooks](notebooks).
 
